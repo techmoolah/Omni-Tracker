@@ -1,4 +1,4 @@
-![OmniTracker Console Header](https://i.ibb.co/3yKLWw0K/1008094768.jpg)
+![MoolahTracker Console Header](https://i.ibb.co/3yKLWw0K/1008094768.jpg)
 
 
 # 🛰️ How to Setup Your Phone Tracker
@@ -25,7 +25,7 @@ We need to create a private system that sends the location maps directly to you.
 1. Open your Telegram app and search for **`@BotFather`** (look for the blue verified checkmark).
 2. Type and send: `/newbot`
 3. Give your bot a name (example: `MyFinderBot`).
-4. Give it a username that ends in "bot" (example: `joker_finder_bot`).
+4. Give it a username that ends in "bot" (example: `techmoolah_finder_bot`).
 5. **BotFather** will send you a long code called a **Token**. Copy this code and keep it safe!
 
 ![OmniTracker Console Header](https://i.ibb.co/1tLkLVf2/1008095038.jpg)
@@ -36,7 +36,7 @@ We need to create a private system that sends the location maps directly to you.
 2. Type and send: `/start`
 3. It will reply with a number called your **Id**. Copy this number!
 
-![OmniTracker Console Header](https://i.ibb.co/Q3m1d0s0/1008095062.jpg
+![MoolahTracker Console Header](https://i.ibb.co/Q3m1d0s0/1008095062.jpg
 )
 
 ---
